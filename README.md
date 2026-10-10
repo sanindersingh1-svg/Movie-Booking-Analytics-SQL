@@ -59,17 +59,18 @@ The database contains four tables:
 
 ## SQL Analysis Screenshots
 
-### 1. Total Bookings and Revenue
-![Total Bookings and Revenue](./Screenshot%202026-10-10%20152725.png)
+### 1. Average Ticket Price Analysis
+![Average Ticket Price Analysis](./Screenshot%202026-10-10%20152725.png)
 
-### 2. Cancellation Analysis
-![Cancellation Analysis](./Screenshot%202026-10-10%20152734.png)
+### 2. Average Booking Value Analysis
+![Average Booking Value Analysis](./Screenshot%202026-10-10%20152734.png)
 
-### 3. Customer Retention
-![Customer Retention](./Screenshot%202026-10-10%20152755.png)
+### 3. Executive Booking Dashboard KPIs
+![Executive Booking Dashboard KPIs](./Screenshot%202026-10-10%20152755.png)
 
-### 4. Booking Trends
-![Booking Trends](./Screenshot%202026-10-10%20152814.png)
+### 4. Movie Performance Analysis
+![Movie Performance Analysis](./Screenshot%202026-10-10%20152814.png)
+
 
 
 
