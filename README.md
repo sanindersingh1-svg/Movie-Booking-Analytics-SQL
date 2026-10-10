@@ -60,16 +60,17 @@ The database contains four tables:
 ## SQL Analysis Screenshots
 
 ### 1. Total Bookings and Revenue
-![Total Bookings and Revenue](total-bookings-revenue.png)
+![Total Bookings and Revenue](./Screenshot%202026-10-10%20152725.png)
 
 ### 2. Cancellation Analysis
-![Cancellation Analysis](cancellation-analysis.png)
+![Cancellation Analysis](./Screenshot%202026-10-10%20152734.png)
 
 ### 3. Customer Retention
-![Customer Retention](customer-retention.png)
+![Customer Retention](./Screenshot%202026-10-10%20152755.png)
 
 ### 4. Booking Trends
-![Booking Trends](booking-trends.png)
+![Booking Trends](./Screenshot%202026-10-10%20152814.png)
+
 
 
 ## Project Outcome
