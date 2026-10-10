@@ -56,5 +56,21 @@ The database contains four tables:
 - Screenshots — Query results and analysis evidence
 - `Movie_Booking_Dashboard_Questions.pdf` — Business questions and project requirements
 
+
+## SQL Analysis Screenshots
+
+### 1. Total Bookings and Revenue
+![Total Bookings and Revenue](total-bookings-revenue.png)
+
+### 2. Cancellation Analysis
+![Cancellation Analysis](cancellation-analysis.png)
+
+### 3. Customer Retention
+![Customer Retention](customer-retention.png)
+
+### 4. Booking Trends
+![Booking Trends](booking-trends.png)
+
+
 ## Project Outcome
 The project is designed to demonstrate SQL-based business analysis, KPI calculations, booking trends, revenue analysis, and customer insights.
